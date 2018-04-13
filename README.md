@@ -6,4 +6,4 @@ Solutions of  programming assignments from Coursera's Machine Learning course ta
 First try to solve yourself. If you fail, you can have a peek
 
 ## License
-The repository is under [WTFPL](http://www.wtfpl.net/)
+The repository is under [WTFPL](http://www.wtfpl.net/) .
